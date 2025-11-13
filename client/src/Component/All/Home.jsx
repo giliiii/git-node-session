@@ -32,7 +32,7 @@ const Home = () => {
             <SplitterPanel className="flex flex-column align-items-center justify-content-center" style={{backgroundColor:"#B7C4CA"}}>
                 <span>שוקולדים וממתקים</span>
                 <span>נעשים עם תשוקה בפריז</span>
-                <span>טבעוני ומופחת סוכר</span>
+                <span>!!טבעוני ומופחת סוכר</span>
             </SplitterPanel>
 
     </Splitter>
