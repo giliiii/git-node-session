@@ -1,0 +1,168 @@
+[{
+  "_id": {
+    "$oid": "68751db80c5fa549d99ca212"
+  },
+  "user": {
+    "$oid": "6873c4c3564b8a02b7cff8fd"
+  },
+  "product": {
+    "$oid": "686a7054495f369dd5519b10"
+  },
+  "name": "מקרונים 24",
+  "price": 45.6,
+  "quantitybasket": 8,
+  "createdAt": {
+    "$date": "2025-07-14T15:09:44.087Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-15T00:12:45.596Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "687520300c5fa549d99ca22d"
+  },
+  "user": {
+    "$oid": "6873c4c3564b8a02b7cff8fd"
+  },
+  "product": {
+    "$oid": "686a6ef5495f369dd5519afb"
+  },
+  "name": "ספרה קרמל",
+  "price": 16,
+  "quantitybasket": 5,
+  "createdAt": {
+    "$date": "2025-07-14T15:20:16.728Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-15T00:11:22.263Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "687520710c5fa549d99ca23a"
+  },
+  "user": {
+    "$oid": "6873c4c3564b8a02b7cff8fd"
+  },
+  "product": {
+    "$oid": "686a714e495f369dd5519b1c"
+  },
+  "name": "פאבה",
+  "price": 10,
+  "quantitybasket": 4,
+  "createdAt": {
+    "$date": "2025-07-14T15:21:21.158Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-15T00:15:49.751Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68759cd133c41b33d79f848d"
+  },
+  "user": {
+    "$oid": "6873c4c3564b8a02b7cff8fd"
+  },
+  "product": {
+    "$oid": "686a7035495f369dd5519b0b"
+  },
+  "name": "מקרונים 8",
+  "price": 17.1,
+  "quantitybasket": 3,
+  "createdAt": {
+    "$date": "2025-07-15T00:12:01.075Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-15T00:12:04.242Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68759ce833c41b33d79f849f"
+  },
+  "user": {
+    "$oid": "6873c4c3564b8a02b7cff8fd"
+  },
+  "product": {
+    "$oid": "686a6f99495f369dd5519b03"
+  },
+  "name": "מקרונים 15",
+  "price": 28.5,
+  "quantitybasket": 3,
+  "createdAt": {
+    "$date": "2025-07-15T00:12:24.996Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T02:49:48.063Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6876b9408da9721344b7a2cc"
+  },
+  "user": {
+    "$oid": "6873c4c3564b8a02b7cff8fd"
+  },
+  "product": {
+    "$oid": "68767d5e8da9721344b7a26b"
+  },
+  "name": "gili1000",
+  "price": 20,
+  "quantitybasket": 2,
+  "createdAt": {
+    "$date": "2025-07-15T20:25:36.683Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-15T20:25:47.549Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6877059a9c98b9ed0626f35f"
+  },
+  "user": {
+    "$oid": "6873c4c3564b8a02b7cff8fd"
+  },
+  "product": {
+    "$oid": "6876f18c9c98b9ed0626f2fd"
+  },
+  "name": "בלוטין4",
+  "price": 75,
+  "quantitybasket": 1,
+  "createdAt": {
+    "$date": "2025-07-16T01:51:22.373Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T01:51:22.373Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68778caa81374f5e68f0df15"
+  },
+  "user": {
+    "$oid": "68778ca081374f5e68f0df10"
+  },
+  "product": {
+    "$oid": "68778a1281374f5e68f0ded9"
+  },
+  "name": "טבלאות",
+  "price": 83.3,
+  "quantitybasket": 2,
+  "createdAt": {
+    "$date": "2025-07-16T11:27:38.320Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T11:27:40.653Z"
+  },
+  "__v": 0
+}]

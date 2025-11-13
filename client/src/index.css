@@ -1,0 +1,106 @@
+
+html {
+    font-size: 14px;
+}
+
+body {
+    /* direction: rtl; */
+    font-family: var(--font-family);
+    font-weight: normal;
+    background: var(--surface-ground);
+    color: var(--text-color);
+    /* padding: 1rem; */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+      background-color: #fbf4ec;
+      min-height: 100vh;
+
+}
+
+.card {
+    background: var(--surface-card);
+    padding: 2rem;
+    border-radius: 10px;
+    margin-bottom: 1rem;
+}
+/* .myimage{
+  height: 100%;
+  width: 5000px;
+  background-color: red;
+} */
+ .p-carousel-indicators{
+  display: none !important;
+ }
+.tableColor td{
+  background-color: #fbf4ec;
+  
+}
+.categorieColor .p-menuitem-link {
+  background-color: #fbf4ec !important;
+  color: black !important;
+  border-bottom:none !important;
+}
+
+.categorieColor .p-tabmenu-nav {
+  background-color: #fbf4ec !important;
+  border-radius: 12px;
+  padding: 0.2rem;
+}
+.categorieColor .p-tabmenu-nav .p-menuitem.p-highlight .p-menuitem-link {
+  border-bottom: 3px solid black !important;
+}
+
+.hoverImg{
+  transition: 0.2s ease;
+  cursor: pointer;
+
+}
+.hoverImg:hover{
+    filter: brightness(115%);
+
+}
+.p-datatable {
+  background-color: #fbf4ec;
+  border: none;
+}
+.p-datatable .p-datatable-tbody > tr > td{
+  background-color:#fbf4ec ;
+  /* border-bottom: 1px solid  rgb(87, 132, 215); */
+  color:rgb(71, 106, 172);
+  height:15vh
+  
+}
+.p-datatable .p-datatable-thead > tr > th{
+  background-color:#fbf4ec ;
+}
+.p-datatable .p-paginator-bottom{
+  background-color:#fbf4ec ;
+}
+.p-paginator .p-paginator-pages .p-paginator-page.p-highlight {
+   background-color: #fbf4ec;
+}
+ .login{
+   background-image: url('../public/enter/enter1.jpg');
+  background-repeat: no-repeat; 
+  /* width: 50%; */
+  background-color: #fbf4ec;
+ }
+ /* .p-menubar p-component{
+  margin:5%;
+ } */
+.p-menuitem-link:hover{
+background-color: #fbf4ec;
+
+}
+.p-menuitem-text:hover{
+color:#c18f57
+}
+.page-layout {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.content {
+  flex: 1;
+}
